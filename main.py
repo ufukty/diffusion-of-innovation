@@ -1,3 +1,6 @@
+# 2020 - github.com/ufukty
+# See the LICENSE file
+
 from typing import List, Dict, NewType, Set, Tuple
 from enum import Enum
 from random import uniform
