@@ -6,7 +6,7 @@
 
 ## Adoption process
 
-There is 8 stages (states) for each node. Even though stages are pretty much the same with original theory, conditions are custom for this project. Conditions were designed so that the nodes are exposed to various factors throughout the process.
+There are 8 stages (states) for each node. Even though stages are pretty much the same with original theory, conditions are custom for this project. Conditions were designed so that the nodes are exposed to various factors throughout the process.
 
 ![State diagram which describes the stages used in application and flow between them](images/diagram.png)
 
