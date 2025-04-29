@@ -22,9 +22,9 @@ Those rules are designed by me and they are not perfect.
 
 In the time window between iteration 25 and 65 (See output #1), hubs are switching from Decision_Accept to Implementation and Confirmation stages. Massive delay caused by the nature of determination. Nodes look their neighbors to see what they are thinking about innovation. And, more neighbors for a node means more time to wait for that node to adopt.
 
-It looks like it follows a skewed S-Curve. Initial part where it accelerates (iterations 0 to 35) is like super-diffusion. But after there, and the most part of process it follows sub-diffusion behavior. 
+It looks like it follows a skewed S-Curve. Initial part where it accelerates (iterations 0 to 35) is like super-diffusion. But after there, and the most part of process it follows sub-diffusion behavior.
 
-It is hard to talk about reason but we can say, the turning point is determined by 2 things: limit of market and characteristics of innovation. Limit of market is more obvious than others, because the amount of new nodes to idea to propagate them is much more at former iterations than at the next iterations. So the rate slows down constantly. At the other hand, characteristics of innovation arises from the decision process of nodes. Some stages like (Knowledge_Awareness, decision, implementation for that example) relies on interpersonal factors to update from. But other stages depends on intrapersonal factors (represented by random numbers in this experiment). 
+It is hard to talk about reason but we can say, the turning point is determined by 2 things: limit of market and characteristics of innovation. Limit of market is more obvious than others, because the amount of new nodes to idea to propagate them is much more at former iterations than at the next iterations. So the rate slows down constantly. At the other hand, characteristics of innovation arises from the decision process of nodes. Some stages like (Knowledge_Awareness, decision, implementation for that example) relies on interpersonal factors to update from. But other stages depends on intrapersonal factors (represented by random numbers in this experiment).
 
 Maybe we think the stages relies on interpersonal factors helps network to adopt much faster because there is no resistence showed by prejudiced individuals.
 
@@ -48,6 +48,10 @@ Maybe we think the stages relies on interpersonal factors helps network to adopt
 **Random network (`p=0.05`)**
 
 ![Simulation output for random network with 5000 nodes and 0.05 probability of making links between each node match.](images/random_n_500.gif)
+
+## Diffusion of the project
+
+[![Stargazers over time](https://starchart.cc/ufukty/diffusion-of-innovation.svg?variant=adaptive)](https://starchart.cc/ufukty/diffusion-of-innovation)
 
 ## License
 
